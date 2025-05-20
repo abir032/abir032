@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abir (abir032)
+# 👋 Hi there, I'm Abir
 
 Welcome to my GitHub profile!  
 I'm a passionate **Software Engineer** specializing in **Mobile Application Development** with a focus on building seamless, delightful, and robust user experiences.
