@@ -21,9 +21,9 @@ I’m a professional mobile app developer passionate about building seamless, ro
 - 🌱 I’m always learning new technologies in mobile development and UI/UX
 - 💬 Ask me about Mobile App Development, SwiftUI, UIKit, or React Native!
 - ⚡ Fun fact: I’m a lifelong learner and cricket lover
-- 📫 How to reach me: abir.fahimfaiz@gmail.com
+- 📫 How to reach me: fahimfaizabir25@gmail.com
 - 🤵 [Portfolio](https://www.linkedin.com/in/fahim-faiz-abir/)
-- 📝 [Resume](mailto:abir.fahimfaiz@gmail.com?subject=Resume%20Request)
+- 📝 [Resume](mailto:fahimfaizabir25@gmail.com?subject=Resume%20Request)
 
 </br>
 
