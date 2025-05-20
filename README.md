@@ -1,4 +1,4 @@
-#### Hey 👋🏽, I'm [Fahim Faiz Abir!](https://www.linkedin.com/in/fahim-faiz-abir/)
+#### Hey 👋🏽, I'm [Fahim Faez Abir!](https://www.linkedin.com/in/fahim-faiz-abir/)
 
 I’m a professional mobile app developer passionate about building seamless, robust, and delightful user experiences. With years of experience shipping high-quality iOS and cross-platform applications, I believe in clean architecture, pixel-perfect UIs, and constantly learning the latest in SwiftUI, UIKit, and cross-platform tech. Outside of coding, I love exploring new tech trends and playing cricket 🏏.
 
