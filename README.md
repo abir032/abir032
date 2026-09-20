@@ -1,16 +1,13 @@
 <h1 align="center">Fahim Faez Abir</h1>
 
 <p align="center">
-  <b>Mobile Engineer</b> · iOS (SwiftUI · UIKit) · React Native<br/>
+  <b>Mobile Engineer</b> · iOS (SwiftUI · UIKit) · Flutter · React Native<br/>
   <i>Clean architecture, pixel-perfect UI, and apps that feel fast.</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahim-faiz-abir/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/fahimfaizabir">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:fahimfaizabir25@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -25,14 +22,16 @@
 
 ## About
 
-I build mobile applications end to end — from architecture and state management through to the last 4 points of padding. Most of my work lives in the Apple ecosystem with **SwiftUI** and **UIKit**, and I ship cross-platform with **React Native** when a shared codebase is the right call.
+I build mobile applications end to end — from architecture and state management through to the last 4 points of padding. Most of my work lives in the Apple ecosystem with **SwiftUI** and **UIKit**, and I ship cross-platform with **Flutter** and **React Native** when a shared codebase is the right call.
+
+A good portion of my work sits in private and client repositories, so the public contribution graph below tells only part of the story — happy to walk through architecture decisions and shipped work on request.
 
 ```swift
 struct Engineer: Identifiable {
     let id = "abir032"
     let name = "Fahim Faez Abir"
     let role = "Mobile App Developer"
-    let platforms = ["iOS", "iPadOS", "React Native"]
+    let platforms = ["iOS", "iPadOS", "Flutter", "React Native"]
     let focus = ["Clean Architecture", "Design Systems", "Performance"]
     let currentlyLearning = ["Swift Concurrency", "Advanced SwiftUI", "UI/UX"]
     let offDuty = "🏏 cricket"
@@ -56,12 +55,15 @@ struct Engineer: Identifiable {
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 **Languages**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
@@ -70,6 +72,8 @@ struct Engineer: Identifiable {
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square&logo=flutter&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-1575F9?style=flat-square&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -94,8 +98,10 @@ struct Engineer: Identifiable {
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[Project One](https://github.com/abir032)** | One line on the problem it solves and the outcome. | SwiftUI · Combine |
-| **[Project Two](https://github.com/abir032)** | One line on the problem it solves and the outcome. | React Native · TypeScript |
-| **[Project Three](https://github.com/abir032)** | One line on the problem it solves and the outcome. | UIKit · Core Data |
+| **[Project Two](https://github.com/abir032)** | One line on the problem it solves and the outcome. | Flutter · Riverpod |
+| **[Project Three](https://github.com/abir032)** | One line on the problem it solves and the outcome. | React Native · TypeScript |
+
+> Several apps I've worked on are in private or client repositories. If you'd like a deeper look at the code or architecture behind them, [reach out](mailto:fahimfaizabir25@gmail.com) — happy to share what I can.
 
 <!--
   Optional: swap the table for repo cards —
@@ -108,10 +114,10 @@ struct Engineer: Identifiable {
 
 ## Currently
 
-- 🔨 Building iOS apps with **SwiftUI + UIKit**, and cross-platform features in **React Native**
+- 🔨 Building iOS apps with **SwiftUI + UIKit**, and cross-platform products in **Flutter** and **React Native**
 - 📚 Going deeper on **Swift Concurrency**, modular app architecture, and motion/interaction design
-- 🤝 Open to collaborating on mobile products, design systems, and open-source Swift tooling
-- 💬 Happy to talk about **SwiftUI layout, UIKit interop, RN performance, or App Store release workflows**
+- 🤝 Open to collaborating on mobile products, design systems, and open-source Swift or Dart tooling
+- 💬 Happy to talk about **SwiftUI layout, UIKit interop, Flutter state management, or App Store release workflows**
 
 ---
 
@@ -136,7 +142,7 @@ struct Engineer: Identifiable {
 
 Open to freelance work, full-time roles, and interesting mobile problems.
 
-📧 **fahimfaizabir25@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/fahim-faiz-abir/)** · 🐦 **[Twitter](https://twitter.com/fahimfaizabir)**
+📧 **fahimfaizabir25@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/fahim-faiz-abir/)**
 
 <p align="center">
   <i>"Code is like cricket — timing, strategy, and teamwork decide the result."</i>
